@@ -1,0 +1,7 @@
+[16-Jun-2021 04:16:50 UTC] PHP Notice:  Undefined index: number in /home/mqv6hw9021p1/public_html/demomail.php on line 3
+[16-Jun-2021 04:16:50 UTC] PHP Notice:  Undefined index: email in /home/mqv6hw9021p1/public_html/demomail.php on line 5
+[16-Jun-2021 04:16:50 UTC] PHP Notice:  Undefined index: email in /home/mqv6hw9021p1/public_html/demomail.php on line 10
+[16-Jun-2021 04:16:50 UTC] PHP Notice:  Undefined index: number in /home/mqv6hw9021p1/public_html/mailtous.php on line 3
+[16-Jun-2021 04:16:50 UTC] PHP Notice:  Undefined index: email in /home/mqv6hw9021p1/public_html/mailtous.php on line 5
+[16-Jun-2021 04:16:50 UTC] PHP Notice:  Undefined index: message in /home/mqv6hw9021p1/public_html/mailtous.php on line 6
+[16-Jun-2021 04:16:50 UTC] PHP Notice:  Undefined index: email in /home/mqv6hw9021p1/public_html/mailtous.php on line 10
